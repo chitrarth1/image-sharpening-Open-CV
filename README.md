@@ -110,7 +110,8 @@ The image-processing pipeline follows these steps:
 |  Jupyter Notebook   | Implementation & experimentation       |
 |  Matplotlib         | Image visualization                    |
 
-| <img src="images/blurry.jpg" width="450"> | <img src="images/sharpened.jpg" width="450"> |
+| <img src="images/original_canny.png" width="450"> | <img src="images/sharpened_canny.png" width="450"> |
+
 
 The notebook imports OpenCV, NumPy, and Matplotlib for the image-processing workflow.
 
